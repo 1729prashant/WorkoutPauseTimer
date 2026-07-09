@@ -31,7 +31,7 @@ Regular stopwatches capture split times, start secondary timers. This is not a c
 
 ## Download
 
-For macOS (silicon) users, a pre-compiled DMG bundle of the desktop application is available directly in this repository **[here.](src-tauri/target/release/bundle/dmg/WorkoutPauseTimer_0.1.0_aarch64.dmg)**
+For macOS (silicon) users, a pre-compiled DMG bundle of the desktop application is available directly in this repository **[here.](installers/macos/WorkoutPauseTimer_0.1.0_aarch64.dmg)**
 
 
 If you wish to build from source yourself, see instructions below.
