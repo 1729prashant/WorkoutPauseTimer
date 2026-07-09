@@ -70,7 +70,7 @@ Before starting, ensure you have the following installed:
     npx tauri build
     ```
 4.  The compiled assets will be located in:
-    `src-tauri/target/release/bundle/dmg/Workout Pause Timer.dmg`
+    `src-tauri/target/release/bundle/dmg/WorkoutPauseTimer_*_aarch64.dmg` and in `src-tauri/target/release/bundle/macos/WorkoutPauseTimer.app`
 
 ---
 
